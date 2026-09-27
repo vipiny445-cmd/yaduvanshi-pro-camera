@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5.0",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/vipiny445-cmd/yaduvanshi-pro-camera@v1.5.0/Yaduvanshi-Pro-Camera.apk",
-  "notes": "Bada preview, 12MP/50MP switch, gallery save, error text hata diya."
+  "versionCode": 7,
+  "versionName": "1.6.0",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/vipiny445-cmd/yaduvanshi-pro-camera@v1.6.0/Yaduvanshi-Pro-Camera.apk",
+  "notes": "50MP ab asli full-sensor JPEG save karta hai, 12MP binned file nahi."
 }

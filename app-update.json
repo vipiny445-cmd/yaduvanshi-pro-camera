@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.7.0",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/vipiny445-cmd/yaduvanshi-pro-camera@v1.7.0/Yaduvanshi-Pro-Camera.apk",
-  "notes": "Full sensor size from every lens, plus Ziss and Lica filters."
+  "versionCode": 9,
+  "versionName": "1.8.0",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/vipiny445-cmd/yaduvanshi-pro-camera@v1.8.0/Yaduvanshi-Pro-Camera.apk",
+  "notes": "Video REC indicator, 4K or 1080p, 30 60 120 fps, and Ziss Lica on the recording."
 }

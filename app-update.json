@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.3.0",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/vipiny445-cmd/yaduvanshi-pro-camera@v1.3.0/Yaduvanshi-Pro-Camera.apk",
-  "notes": "Har lens alag khulta hai. Photo ab us lens ki sabse badi size par save hoti hai."
+  "versionCode": 5,
+  "versionName": "1.4.0",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/vipiny445-cmd/yaduvanshi-pro-camera@v1.4.0/Yaduvanshi-Pro-Camera.apk",
+  "notes": "Viewfinder ab frame mein hai. Zoom pill, modes aur quick panel full screen nahi chadhte."
 }
